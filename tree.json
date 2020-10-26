@@ -1,0 +1,50 @@
+[
+    {
+        "slidePath": "../../../../mockups",
+        "name": "mockups",
+        "children": [
+            {
+                "slidePath": "../../../../mockups/WTRTXCEBTD",
+                "name": "WTRTXCEBTD",
+                "id": "WTRTXCEBTD",
+                "state": "mockups/WTRTXCEBTD",
+                "index": "\u0004",
+                "component": "WTRTXCEBTD"
+            },
+            {
+                "slidePath": "../../../../mockups/CSPVSRVFFA",
+                "name": "CSPVSRVFFA",
+                "id": "CSPVSRVFFA",
+                "state": "mockups/CSPVSRVFFA",
+                "index": "\u0004",
+                "component": "CSPVSRVFFA"
+            },
+            {
+                "slidePath": "../../../../mockups/JKHGNQQNFB",
+                "name": "JKHGNQQNFB",
+                "id": "JKHGNQQNFB",
+                "state": "mockups/JKHGNQQNFB",
+                "index": "\u0004",
+                "component": "JKHGNQQNFB"
+            },
+            {
+                "slidePath": "../../../../mockups/ZEKIXAMPRV",
+                "name": "ZEKIXAMPRV",
+                "id": "ZEKIXAMPRV",
+                "state": "mockups/ZEKIXAMPRV",
+                "index": "\u0004",
+                "component": "ZEKIXAMPRV"
+            },
+            {
+                "slidePath": "../../../../mockups/IUFGIYBLOO",
+                "name": "IUFGIYBLOO",
+                "id": "IUFGIYBLOO",
+                "state": "mockups/IUFGIYBLOO",
+                "index": "\u0004",
+                "component": "IUFGIYBLOO"
+            }
+        ],
+        "id": "IFSFEGVRLT",
+        "state": "mockups"
+    }
+]
