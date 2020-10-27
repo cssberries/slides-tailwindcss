@@ -22,8 +22,8 @@
         "dotenv": "^8.2.0",
         "npm": "^6.14.8",
         "simple-git": "^2.21.0",
-        "slides-finder": "7.0.2",
-        "slides-render-angular-tailwindcss": "1.2.1"
+        "slides-finder": "7.0.3",
+        "slides-render-angular-tailwindcss": "1.2.2"
     },
     "license": "ISC"
 }
